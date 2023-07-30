@@ -1,4 +1,4 @@
-# fakestore
+# ecommerce
 
 ## Project setup
 ```
